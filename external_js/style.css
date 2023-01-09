@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: azure;
+}
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+}
+
+.Container p {
+    color: black;
+    font-size: 20px;
+}
+
+.Btn input {
+    border: 2px solid wheat;
+    height: 20px;
+    width: 50px;
+    background-color: aqua;
+    color: blue;
+    color: white;
+}
+
+.Btn input:hover {
+    height: 30px;
+    width: 60px;
+    background-color: yellowgreen;
+    color: white;
+}

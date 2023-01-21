@@ -10,3 +10,6 @@ console.log("Div of two number is", num1 / num2);
 a = 10;
 b = 3;
 console.log("Moduls of two number is", a % b);
+
+console.log("Increment of number is ", a++);
+console.log("Decrement of number is ", --a);
